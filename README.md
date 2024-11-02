@@ -6,8 +6,7 @@
 this is an ai wiht python code. it takes a video and gives you some description for that. below you can see how to deploy it.
 
 ## How to run this project locally:
-At the first please install python 3 on your computer or use this website below: 
-[IDE for AI](https://colab.research.google.com/). this website gives you a playground for testing your ai project.
+At the first please install python 3 on your computer.
 
 ### Prerequisites
 
